@@ -1,0 +1,705 @@
+{
+  "title": "Nivel de Digitalización en Ecuador",
+  "generated_on": "2026-01-29",
+  "document": {
+    "nombre": "Nivel De Digitalización En El Ecuador Y Marco Legal Aplicable",
+    "fecha_portada": "2026-01-29",
+    "institucion": "Universidad Central del Ecuador — Facultad de Ingeniería y Ciencias Aplicadas",
+    "asignatura": "Legislación Informática",
+    "docente": "Dr. Robert Enríquez",
+    "integrantes": [
+      "Priscila Chisag",
+      "Cristian Pulupa",
+      "Angelo Unaucho",
+      "Carlos Bohórquez",
+      "Vinicio Vergara"
+    ]
+  },
+  "timeline_events": [
+    {
+      "id": "canada-pipeda-2000",
+      "pais": "Canadá",
+      "categoria": "Marco legal",
+      "titulo": "Promulgación de PIPEDA (Personal Information Protection and Electronic Documents Act)",
+      "fecha": "2000-04-13",
+      "descripcion": "Canadá promulga PIPEDA, la ley federal que regula la protección de datos personales y documentos electrónicos en el sector privado. Establece un marco sólido para la confianza digital.",
+      "fuentes": [
+        {
+          "label": "Justice Laws Website — PIPEDA",
+          "url": "https://laws-lois.justice.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "ecuanex-1991",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Fundación de ECUANEX (primer ISP del Ecuador)",
+      "fecha": "1991-01-01",
+      "descripcion": "Creación de ECUANEX (INTERCOM), primer proveedor de servicios de internet del país. Marca el inicio formal de la conectividad digital a nivel nacional.",
+      "fuentes": [
+        {
+          "label": "Supercom — Registro de Operadores ISP",
+          "url": "https://www.supercom.gob.ec"
+        },
+        {
+          "label": "CONATEL — Telecom History Ecuador",
+          "url": "https://www.telecomunicaciones.gob.ec"
+        },
+        {
+          "label": "SLR: Nivel de Digitalización en Ecuador",
+          "url": "",
+          "note": "Documento académico UCE"
+        }
+      ]
+    },
+    {
+      "id": "prensa-digital-1994",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Primera prensa digital del Ecuador (Diario Hoy)",
+      "fecha": "1994-01-01",
+      "descripcion": "El diario Hoy se convierte en el primer periódico ecuatoriano con versión en línea, hito de digitalización de medios de comunicación.",
+      "fuentes": [
+        {
+          "label": "Diario Hoy — Versión Digital",
+          "url": "https://www.hoy.com.ec"
+        },
+        {
+          "label": "INEC — Indicadores de Medios Digitales",
+          "url": "https://www.ecuadorencifras.gob.ec/tecnologias-de-la-informacion-y-comunicacion-tic/"
+        }
+      ]
+    },
+    {
+      "id": "canada-broadband-1997",
+      "pais": "Canadá",
+      "categoria": "Infraestructura digital",
+      "titulo": "Conecta a Canada — Iniciativa de banda ancha nacional",
+      "fecha": "1997-01-01",
+      "descripcion": "Canadá lanza su programa nacional de conectividad, enfocado en extender el acceso a internet de banda ancha a comunidades rurales y remotas.",
+      "fuentes": [
+        {
+          "label": "CRTC — Communications Monitoring Report",
+          "url": "https://crtc.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "migracion-medios-1996-2000",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Migración digital de El Comercio y El Universo",
+      "fecha": "1996-01-01",
+      "descripcion": "Medios tradicionales incorporan versiones digitales, consolidando el tránsito de prensa impresa hacia entornos digitales.",
+      "fuentes": [
+        {
+          "label": "El Comercio — Versión Digital",
+          "url": "https://www.elcomercio.com"
+        },
+        {
+          "label": "El Universo — Versión Digital",
+          "url": "https://www.eluniverso.com"
+        },
+        {
+          "label": "INEC — Tecnologías de Información y Comunicación",
+          "url": "https://www.ecuadorencifras.gob.ec/tecnologias-de-la-informacion-y-comunicacion-tic/"
+        }
+      ]
+    },
+    {
+      "id": "canada-ecommerce-2000",
+      "pais": "Canadá",
+      "categoria": "Marco legal",
+      "titulo": "Adopción de estándares de comercio electrónico (UNCITRAL)",
+      "fecha": "2000-06-01",
+      "descripcion": "Canadá adopta leyes basadas en la UNCITRAL Model Law, facilitando transacciones electrónicas seguras y reconocidas legalmente.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Service and Digital",
+          "url": "https://www.canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "redes-sociales-2005-2010",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Auge de redes sociales y plataformas colaborativas",
+      "fecha": "2005-01-01",
+      "descripcion": "Popularización de redes sociales, blogs y plataformas interactivas (Web 2.0). La ciudadanía se convierte en generadora activa de contenidos digitales.",
+      "fuentes": [
+        {
+          "label": "INEC — TIC en Hogares (Tabulados Excel 2024)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2024/202410_Tabulados_TICs_EXCEL.xlsx"
+        },
+        {
+          "label": "INEC — Boletín TIC 2024 (PDF)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2024/202410_Tecnologia_de_la_Informacion_y_Comunicacion-TICs.pdf"
+        },
+        {
+          "label": "Supercom — Estadísticas de Conectividad",
+          "url": "https://www.supercom.gob.ec/es/web/guest/estadisticas"
+        }
+      ]
+    },
+    {
+      "id": "canada-digital-gov-2006",
+      "pais": "Canadá",
+      "categoria": "Gobierno digital",
+      "titulo": "Lanzamiento del portal de servicios digitales federales",
+      "fecha": "2006-01-01",
+      "descripcion": "El Gobierno Federal de Canadá lanza plataformas centralizadas para servicios digitales, con enfoque en experiencia del ciudadano.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Service and Digital",
+          "url": "https://www.canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "4g-lte-2013-2015",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Despliegue de 4G LTE e impulso del internet móvil",
+      "fecha": "2013-01-01",
+      "descripcion": "Expansión del uso de smartphones, despliegue 4G y mejora en conectividad móvil. Se consolidan plataformas de trámites en línea y servicios electrónicos del Estado.",
+      "fuentes": [
+        {
+          "label": "Supercom — Reportes de Cobertura 4G LTE",
+          "url": "https://www.supercom.gob.ec/es/web/guest/estadisticas"
+        },
+        {
+          "label": "INEC — TIC en Hogares (Tabulados 2024)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2024/202410_Tabulados_TICs_EXCEL.xlsx"
+        },
+        {
+          "label": "Secretaría de Telecomunicaciones — Cobertura Móvil",
+          "url": "https://www.telecomunicaciones.gob.ec"
+        }
+      ]
+    },
+    {
+      "id": "canada-digital-charter-2018",
+      "pais": "Canadá",
+      "categoria": "Gobierno digital",
+      "titulo": "Canadian Digital Charter — Marco de derechos digitales",
+      "fecha": "2018-06-01",
+      "descripcion": "Canadá publica su Carta Digital, estableciendo principios de seguridad, privacidad e inclusión digital como derechos fundamentales.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Digital Charter",
+          "url": "https://www.canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "agenda-digital-2021-2022",
+      "pais": "Ecuador",
+      "categoria": "Gobierno digital",
+      "titulo": "Agenda Digital (2021–2022)",
+      "fecha": "2021-01-01",
+      "descripcion": "Agenda con metas de conectividad (98% cobertura móvil) y 50% de hogares con fibra óptica, reforzando gobierno digital y economía digital.",
+      "fuentes": [
+        {
+          "label": "Secretaría de Telecomunicaciones — Agenda Digital",
+          "url": "https://www.telecomunicaciones.gob.ec"
+        },
+        {
+          "label": "INEC — TIC Hogares 2024 (Xlsx)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2024/202410_Tabulados_TICs_EXCEL.xlsx"
+        },
+        {
+          "label": "Supercom — Indicadores de Cobertura",
+          "url": "https://www.supercom.gob.ec/es/web/guest/estadisticas"
+        }
+      ]
+    },
+    {
+      "id": "canada-digital-infrastructure-2021",
+      "pais": "Canadá",
+      "categoria": "Infraestructura digital",
+      "titulo": "Plan de Infraestructura Digital — Inversión en banda ancha universal",
+      "fecha": "2021-03-01",
+      "descripcion": "Canadá invierte miles de millones en expandir la cobertura de banda ancha de alta velocidad, con objetivo de acceso universal a 50 Mbps.",
+      "fuentes": [
+        {
+          "label": "CRTC — Communications Monitoring Report",
+          "url": "https://crtc.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "agenda-transformacion-2022-2025",
+      "pais": "Ecuador",
+      "categoria": "Gobierno digital",
+      "titulo": "Agenda de Transformación Digital (2022–2025)",
+      "fecha": "2022-01-01",
+      "descripcion": "Agenda enfocada en identidad digital, trámites y servicios públicos digitales, ciberseguridad e interoperabilidad institucional.",
+      "fuentes": [
+        {
+          "label": "Secretaría Técnica de Gobierno Digital",
+          "url": "https://www.gobiernodigital.gob.ec"
+        },
+        {
+          "label": "Firma Digital Pública — Sistema de Identidad Digital",
+          "url": "https://www.firmadigital.gob.ec"
+        },
+        {
+          "label": "Secretaría de Telecomunicaciones",
+          "url": "https://www.telecomunicaciones.gob.ec"
+        }
+      ]
+    },
+    {
+      "id": "canada-digital-id-2022",
+      "pais": "Canadá",
+      "categoria": "Gobierno digital",
+      "titulo": "Iniciativa de Identidad Digital — Sign-In Partner",
+      "fecha": "2022-05-01",
+      "descripcion": "Canadá lanza 'Sign-In Partner', solución de identidad digital federal que permite autenticación segura en servicios públicos con opciones privadas.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Service and Digital",
+          "url": "https://www.canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "penetracion-internet-2024",
+      "pais": "Ecuador",
+      "categoria": "Estadística",
+      "titulo": "Penetración de internet móvil+fijo ~83,06% (dic-2024)",
+      "fecha": "2024-12-01",
+      "descripcion": "Aproximadamente 15,2 millones de usuarios con internet en Ecuador (83,06% de penetración), con ~14,86 millones de cuentas móviles+fijas.",
+      "fuentes": [
+        {
+          "label": "INEC — TIC Julio 2025 (Tabulados Excel)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2025/202507_Tabulados_TICs_EXCEL.xlsx"
+        },
+        {
+          "label": "INEC — Boletín TIC Julio 2025 (PDF)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2025/202507_Tecnologia_de_la_Informacion_y_Comunicacion-TICs.pdf"
+        },
+        {
+          "label": "Supercom — Estadísticas de Conectividad 2024",
+          "url": "https://www.supercom.gob.ec/es/web/guest/estadisticas"
+        }
+      ]
+    },
+    {
+      "id": "canada-broadband-2024",
+      "pais": "Canadá",
+      "categoria": "Estadística",
+      "titulo": "Penetración de banda ancha — 96,1% de hogares (2024)",
+      "fecha": "2024-12-01",
+      "descripcion": "Canadá alcanza el 96,1% de cobertura de banda ancha en hogares, con acceso prácticamente universal en zonas urbanas y expansión en rurales.",
+      "fuentes": [
+        {
+          "label": "CRTC — Communications Monitoring Report 2024",
+          "url": "https://crtc.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "5g-2025",
+      "pais": "Ecuador",
+      "categoria": "Infraestructura digital",
+      "titulo": "Pruebas e implementación de 5G (2025)",
+      "fecha": "2025-01-01",
+      "descripcion": "Pilotos 2021 y arranque en 2025. La tecnología 5G permitirá mayor velocidad y capacidad de red para servicios digitales avanzados.",
+      "fuentes": [
+        {
+          "label": "Secretaría de Telecomunicaciones — Planes 5G",
+          "url": "https://www.telecomunicaciones.gob.ec"
+        },
+        {
+          "label": "Supercom — Licencias 5G y Cobertura",
+          "url": "https://www.supercom.gob.ec/es/web/guest/estadisticas"
+        },
+        {
+          "label": "INEC — TIC en Infraestructura (2024-2025)",
+          "url": "https://www.ecuadorencifras.gob.ec/tecnologias-de-la-informacion-y-comunicacion-tic/"
+        }
+      ]
+    },
+    {
+      "id": "canada-5g-expansion-2025",
+      "pais": "Canadá",
+      "categoria": "Infraestructura digital",
+      "titulo": "Expansión nacional de 5G — Cobertura mejorada",
+      "fecha": "2025-01-01",
+      "descripcion": "Canadá expande la cobertura de 5G en zonas urbanas y rurales, mejorando velocidades y permitiendo aplicaciones avanzadas como IoT y análisis en tiempo real.",
+      "fuentes": [
+        {
+          "label": "CRTC — Communications Monitoring Report 2025",
+          "url": "https://crtc.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "chile-firma-electronica-2002",
+      "pais": "Chile",
+      "categoria": "Marco legal",
+      "titulo": "Ley 19.799 sobre Documentos Electrónicos y Firma Electrónica",
+      "fecha": "2002-04-12",
+      "descripcion": "Establece el marco jurídico para documentos electrónicos y firma electrónica en Chile.",
+      "fuentes": [
+        {
+          "label": "Biblioteca del Congreso Nacional de Chile",
+          "url": "https://www.bcn.cl"
+        },
+        {
+          "label": "Gobierno Digital — Firma electrónica",
+          "url": "https://www.gob.cl/gobiernodigital/"
+        }
+      ]
+    },
+    {
+      "id": "chile-claveunica-2013",
+      "pais": "Chile",
+      "categoria": "Gobierno digital",
+      "titulo": "ClaveÚnica — Identidad digital para trámites del Estado",
+      "fecha": "2013-01-01",
+      "descripcion": "Implementación de la identidad digital ClaveÚnica para acceder a servicios públicos en línea.",
+      "fuentes": [
+        {
+          "label": "Gobierno Digital — ClaveÚnica",
+          "url": "https://www.claveunica.gob.cl"
+        },
+        {
+          "label": "Gobierno de Chile",
+          "url": "https://www.gob.cl"
+        }
+      ]
+    },
+    {
+      "id": "chile-chileatiende-2012",
+      "pais": "Chile",
+      "categoria": "Gobierno digital",
+      "titulo": "ChileAtiende — Red de servicios y portal de trámites",
+      "fecha": "2012-01-01",
+      "descripcion": "Plataforma integrada de servicios y trámites del Estado para la ciudadanía.",
+      "fuentes": [
+        {
+          "label": "ChileAtiende",
+          "url": "https://www.chileatiende.gob.cl"
+        }
+      ]
+    },
+    {
+      "id": "chile-4g-2014",
+      "pais": "Chile",
+      "categoria": "Infraestructura digital",
+      "titulo": "Despliegue nacional de 4G LTE",
+      "fecha": "2014-01-01",
+      "descripcion": "Inicio del despliegue de 4G, impulsando el acceso móvil a internet de alta velocidad.",
+      "fuentes": [
+        {
+          "label": "SUBTEL — Estadísticas de Telecomunicaciones",
+          "url": "https://www.subtel.gob.cl/estudios-y-estadisticas/"
+        }
+      ]
+    },
+    {
+      "id": "chile-5g-2021",
+      "pais": "Chile",
+      "categoria": "Infraestructura digital",
+      "titulo": "Licitación y despliegue inicial de 5G",
+      "fecha": "2021-12-01",
+      "descripcion": "Subasta de espectro y arranque del servicio 5G en principales ciudades.",
+      "fuentes": [
+        {
+          "label": "SUBTEL — 5G Chile",
+          "url": "https://www.subtel.gob.cl"
+        }
+      ]
+    },
+    {
+      "id": "chile-banda-ancha-2024",
+      "pais": "Chile",
+      "categoria": "Estadística",
+      "titulo": "Penetración de banda ancha fija y móvil (2024)",
+      "fecha": "2024-12-01",
+      "descripcion": "Cobertura de banda ancha y acceso a internet según reportes oficiales.",
+      "fuentes": [
+        {
+          "label": "SUBTEL — Informe Estadístico 2024",
+          "url": "https://www.subtel.gob.cl/estudios-y-estadisticas/"
+        }
+      ]
+    }
+  ],
+  "reference_events": [
+    {
+      "id": "ley-comercio-2002-04-17",
+      "pais": "Ecuador",
+      "categoria": "Marco legal",
+      "titulo": "Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos (Ley No. 67)",
+      "fecha": "2002-04-17",
+      "descripcion": "Publicación en el Registro Oficial Suplemento No. 557 (17 de abril de 2002).",
+      "fuentes": [
+        {
+          "label": "MINTEL (PDF ley)",
+          "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/downloads/2012/11/Ley-de-Comercio-Electronico-Firmas-y-Mensajes-de-Datos.pdf"
+        },
+        {
+          "label": "Defensoría (ficha)",
+          "url": "https://biblioteca.defensoria.gob.ec/handle/37000/3374"
+        },
+        {
+          "label": "OAS (PDF)",
+          "url": "https://www.oas.org/juridico/spanish/cyb_ecu_ley_comeelectronico.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reglamento-ley-comercio-2002-12-31",
+      "pais": "Ecuador",
+      "categoria": "Marco legal",
+      "titulo": "Reglamento a la Ley de Comercio Electrónico (Decreto Ejecutivo 3496)",
+      "fecha": "2002-12-31",
+      "descripcion": "Registro Oficial No. 735 (31 de diciembre de 2002). En el propio reglamento se cita la Ley No. 67 publicada en R.O. Suplemento No. 557 (17 de abril de 2002).",
+      "fuentes": [
+        {
+          "label": "MINTEL (PDF reglamento)",
+          "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/downloads/2012/11/Reglamento-a-la-Ley-de-Comercio-Electronico.pdf"
+        },
+        {
+          "label": "FirmaDigital.gob.ec (PDF)",
+          "url": "https://www.firmadigital.gob.ec/wp-content/uploads/2018/01/reglamento_ley_de_comercio_electronico.pdf"
+        },
+        {
+          "label": "gob.ec (PDF)",
+          "url": "https://www.gob.ec/sites/default/files/regulations/2018-11/Documento_Reglamento-General-Ley-de-Comercio-Electr%C3%B3nico-Firmas-Electr%C3%B3nicas-Mensajes-de-Datos.pdf"
+        }
+      ]
+    },
+    {
+      "id": "lopdp-2021-05-26",
+      "pais": "Ecuador",
+      "categoria": "Marco legal",
+      "titulo": "Ley Orgánica de Protección de Datos Personales (LOPDP)",
+      "fecha": "2021-05-26",
+      "descripcion": "Publicada en el Registro Oficial No. 459, Quinto Suplemento (26 de mayo de 2021).",
+      "fuentes": [
+        {
+          "label": "Asamblea Nacional (ficha)",
+          "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/63464-ley-organica-de-proteccion-de-datos"
+        },
+        {
+          "label": "MINTEL (PDF)",
+          "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2021/06/Ley-Organica-de-Datos-Personales.pdf"
+        }
+      ]
+    },
+    {
+      "id": "lotda-2023-02-07",
+      "pais": "Ecuador",
+      "categoria": "Marco legal",
+      "titulo": "Ley Orgánica para la Transformación Digital y Audiovisual (LOTDA)",
+      "fecha": "2023-02-07",
+      "descripcion": "Ley publicada en el Registro Oficial No. 245, Tercer Suplemento (07 de febrero de 2023).",
+      "fuentes": [
+        {
+          "label": "Asamblea Nacional (ficha)",
+          "url": "https://www.asambleanacional.gob.ec/es/multimedios-legislativos/85619-ley-organica-para-la-transformacion"
+        },
+        {
+          "label": "MINTEL (PDF)",
+          "url": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2024/06/1177927__202406040847200415.pdf"
+        }
+      ]
+    },
+    {
+      "id": "inec-tic-2025-07",
+      "pais": "Ecuador",
+      "categoria": "Estadística",
+      "titulo": "INEC ENEMDU — TIC en hogares (corte julio 2025)",
+      "fecha": "2025-07-01",
+      "descripcion": "Tabulados y boletín TIC con corte ENEMDU julio 2025 (incluye hogares con internet y personas que utilizan internet).",
+      "fuentes": [
+        {
+          "label": "INEC (landing TIC)",
+          "url": "https://www.ecuadorencifras.gob.ec/tecnologias-de-la-informacion-y-comunicacion-tic/"
+        },
+        {
+          "label": "INEC (PDF TIC julio 2025)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2025/202507_Tecnologia_de_la_Informacion_y_Comunicacion-TICs.pdf"
+        },
+        {
+          "label": "INEC (XLSX tabulados julio 2025)",
+          "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Estadisticas_Sociales/TIC/2025/202507_Tabulados_TICs_EXCEL.xlsx"
+        }
+      ]
+    },
+    {
+      "id": "un-egov-launch-2024-09-17",
+      "pais": "Ecuador",
+      "categoria": "Gobierno digital",
+      "titulo": "Lanzamiento global — UN E‑Government Survey 2024",
+      "fecha": "2024-09-17",
+      "descripcion": "Evento de lanzamiento (press briefing) del UN E‑Government Survey 2024.",
+      "fuentes": [
+        {
+          "label": "UN DESA — evento",
+          "url": "https://publicadministration.desa.un.org/events/global-launch-un-e-government-survey-2024"
+        },
+        {
+          "label": "UN Publications — ficha",
+          "url": "https://desapublications.un.org/publications/un-e-government-survey-2024"
+        },
+        {
+          "label": "UN DESA — reporte",
+          "url": "https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024"
+        }
+      ]
+    },
+    {
+      "id": "pipeda-canada-law",
+      "pais": "Canadá",
+      "categoria": "Marco legal",
+      "titulo": "PIPEDA (Personal Information Protection and Electronic Documents Act)",
+      "fecha": "2000-04-13",
+      "descripcion": "Ley federal de Canadá que regula la protección de datos personales y documentos electrónicos en el sector privado, con enfoque en privacidad digital.",
+      "fuentes": [
+        {
+          "label": "Justice Laws Website — PIPEDA",
+          "url": "https://laws-lois.justice.gc.ca/eng/acts/p-8.6/"
+        },
+        {
+          "label": "Privacy Commissioner of Canada",
+          "url": "https://www.priv.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "uncitral-canada-law",
+      "pais": "Canadá",
+      "categoria": "Marco legal",
+      "titulo": "Leyes de comercio electrónico basadas en UNCITRAL Model Law",
+      "fecha": "2000-06-01",
+      "descripcion": "Canadá adopta legislación de comercio electrónico basada en estándares internacionales UNCITRAL, facilitando transacciones digitales reconocidas legalmente.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Service and Digital",
+          "url": "https://www.canada.ca"
+        },
+        {
+          "label": "UNCITRAL Model Law",
+          "url": "https://uncitral.un.org"
+        }
+      ]
+    },
+    {
+      "id": "crtc-report-2024",
+      "pais": "Canadá",
+      "categoria": "Estadística",
+      "titulo": "CRTC Communications Monitoring Report 2024",
+      "fecha": "2024-06-01",
+      "descripcion": "Reporte anual de CRTC que documenta penetración de banda ancha al 96.1% de hogares, acceso a internet >95% de usuarios, con datos de infraestructura digital canadiense.",
+      "fuentes": [
+        {
+          "label": "CRTC — Communications Monitoring Report 2024",
+          "url": "https://crtc.gc.ca/eng/publications/reports/PolicyMonitoring/2024/"
+        },
+        {
+          "label": "CRTC Homepage",
+          "url": "https://crtc.gc.ca"
+        }
+      ]
+    },
+    {
+      "id": "canada-digital-charter",
+      "pais": "Canadá",
+      "categoria": "Marco legal",
+      "titulo": "Canadian Digital Charter 2018",
+      "fecha": "2018-06-01",
+      "descripcion": "Carta Digital de Canadá que establece principios fundamentales de seguridad, privacidad e inclusión digital como derechos de los ciudadanos en la era digital.",
+      "fuentes": [
+        {
+          "label": "Government of Canada — Digital Charter",
+          "url": "https://www.canada.ca/en/digital-government/digital-charter.html"
+        },
+        {
+          "label": "ISED Canada — Digital Initiatives",
+          "url": "https://ised-isde.canada.ca"
+        }
+      ]
+    },
+    {
+      "id": "un-egdi-canada-2024",
+      "pais": "Canadá",
+      "categoria": "Estadística",
+      "titulo": "UN E-Government Development Index 2024 — Canadá Top 50",
+      "fecha": "2024-09-17",
+      "descripcion": "Índice de Desarrollo de Gobierno Electrónico de ONU 2024 que posiciona a Canadá en el top 50 global (EGDI 0.84516) por madurez de servicios públicos digitales.",
+      "fuentes": [
+        {
+          "label": "UN DESA — E-Government Survey 2024",
+          "url": "https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024"
+        },
+        {
+          "label": "UN Publications",
+          "url": "https://desapublications.un.org/publications/un-e-government-survey-2024"
+        }
+      ]
+    },
+    {
+      "id": "chile-ley-19799-2002",
+      "pais": "Chile",
+      "categoria": "Marco legal",
+      "titulo": "Ley 19.799 — Documentos Electrónicos y Firma Electrónica",
+      "fecha": "2002-04-12",
+      "descripcion": "Ley que regula documentos electrónicos y firma electrónica en Chile.",
+      "fuentes": [
+        {
+          "label": "Biblioteca del Congreso Nacional de Chile",
+          "url": "https://www.bcn.cl"
+        }
+      ]
+    },
+    {
+      "id": "chile-ley-19628-1999",
+      "pais": "Chile",
+      "categoria": "Marco legal",
+      "titulo": "Ley 19.628 — Protección de la Vida Privada (Datos Personales)",
+      "fecha": "1999-08-28",
+      "descripcion": "Ley que regula el tratamiento de datos personales en Chile.",
+      "fuentes": [
+        {
+          "label": "Biblioteca del Congreso Nacional de Chile",
+          "url": "https://www.bcn.cl"
+        }
+      ]
+    },
+    {
+      "id": "chile-subtel-estadisticas-2024",
+      "pais": "Chile",
+      "categoria": "Estadística",
+      "titulo": "SUBTEL — Informe Estadístico de Telecomunicaciones 2024",
+      "fecha": "2024-12-01",
+      "descripcion": "Informe con datos de acceso a internet, banda ancha fija y móvil.",
+      "fuentes": [
+        {
+          "label": "SUBTEL — Estudios y Estadísticas",
+          "url": "https://www.subtel.gob.cl/estudios-y-estadisticas/"
+        }
+      ]
+    },
+    {
+      "id": "un-egdi-chile-2024",
+      "pais": "Chile",
+      "categoria": "Estadística",
+      "titulo": "UN E-Government Development Index 2024 — Chile",
+      "fecha": "2024-09-17",
+      "descripcion": "Posición y nivel de madurez de gobierno digital de Chile según ONU.",
+      "fuentes": [
+        {
+          "label": "UN DESA — E-Government Survey 2024",
+          "url": "https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024"
+        }
+      ]
+    }
+  ]
+}

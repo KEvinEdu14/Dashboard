@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+}
+
+.indicator-view-charts .indicator-tables {
+  display: none !important;
+}
+
+.indicator-view-tables .indicator-charts {
+  display: none !important;
+}
